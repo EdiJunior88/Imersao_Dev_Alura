@@ -76,6 +76,7 @@
         </p>
     </details>
   </ul>
+</ul>
 
 <hr>
 
