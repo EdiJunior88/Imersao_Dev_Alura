@@ -38,7 +38,10 @@
             <li>Variáveis, manipulação dos valores armazenados e a memória do computador;</li>
             <li>Tipos de variáveis, como texto e inteiro;</li>
             <li>Fixando a quantidade de casas decimais com a função toFixed();</li>
+            <br>
             <strong>Desafios desta aula!</strong>
+            <br>
+            <br>
             <li>Dependendo da nota, mostrar se a aluna ou aluno foi aprovada(o) ou não</li>
             <li>Alterar o fundo da tela da maneira que achar mais legal</li>
             <li>Imprimir na própria página o resultado, ao invés do console</li>
@@ -61,7 +64,10 @@
             <li>Criar a lógica para saber como converter;</li>
             <li>Utilizar funções que interagem com a tela;</li>
             <li>Exibir o resultado na tela com innerHTML;</li>
+            <br>
             <strong>Desafios desta aula!</strong>
+            <br>
+            <br>
             <li>Adicionar outras moedas para converter.</li>
             <li>Conversor de quilômetros para anos luz e verificar o tempo que demora para ir de uma estrela para outra.</li>
             <li>Conversor de temperaturas entre farenheit, kelvin e celcius.</li>
