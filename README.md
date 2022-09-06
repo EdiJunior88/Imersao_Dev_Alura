@@ -30,8 +30,46 @@
   <li>☑️ DIA 1:</li> 
   <ul>
     <li>VARIÁVEIS, OPERAÇÕES E MÉDIA</li>
+    <details>
+      <summary>Conteúdo detalhado desta aula</summary>
+        <p>
+          <ul>
+            <li>Entender as diferenças entre HTML, CSS e JavaScript;</li>
+            <li>Variáveis, manipulação dos valores armazenados e a memória do computador;</li>
+            <li>Tipos de variáveis, como texto e inteiro;</li>
+            <li>Fixando a quantidade de casas decimais com a função toFixed();</li>
+            <strong>Desafios desta aula!</strong>
+            <li>Dependendo da nota, mostrar se a aluna ou aluno foi aprovada(o) ou não</li>
+            <li>Alterar o fundo da tela da maneira que achar mais legal</li>
+            <li>Imprimir na própria página o resultado, ao invés do console</li>
+            <li>Criar um conversor de temperaturas entre farenheit e celcius</li>
+            <li>Colocar a conta inteira da média em apenas uma linha</li>
+          </ul>
+        </p>
+    </details>
   </ul>
-</ul>
+
+
+  <li>☑️ DIA 2:</li> 
+  <ul>
+    <li>CONVERSOR DE MOEDAS</li>
+    <details>
+      <summary>Conteúdo detalhado desta aula</summary>
+        <p>
+          <ul>
+            <li>Interagir com usuário para receber os preços a serem convertidos;</li>
+            <li>Criar a lógica para saber como converter;</li>
+            <li>Utilizar funções que interagem com a tela;</li>
+            <li>Exibir o resultado na tela com innerHTML;</li>
+            <strong>Desafios desta aula!</strong>
+            <li>Adicionar outras moedas para converter.</li>
+            <li>Conversor de quilômetros para anos luz e verificar o tempo que demora para ir de uma estrela para outra.</li>
+            <li>Conversor de temperaturas entre farenheit, kelvin e celcius.</li>
+            <li>Adicionar uma linha ao projeto desenvolvido para que apareça o valor em bitcoin.</li>
+          </ul>
+        </p>
+    </details>
+  </ul>
 
 <hr>
 
