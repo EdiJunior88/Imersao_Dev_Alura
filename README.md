@@ -76,6 +76,29 @@
         </p>
     </details>
   </ul>
+
+  <li>☑️ DIA 3:</li> 
+  <ul>
+    <li>MENTALISTA</li>
+    <details>
+      <summary>Conteúdo detalhado desta aula</summary>
+        <p>
+          <ul>
+            <li>Realizar o fork do projeto com template inicial;</li>
+            <li>Fazer testes utilizando console.log();</li>
+            <li>Criar a lógica por trás do "chute" com if, else if e else;</li>
+            <li>Utilizar a função Math.random() do JavaScript para gerar números aleatórios;</li>
+            <br>
+            <strong>Desafios desta aula!</strong>
+            <br>
+            <br>
+            <li>Adicionar um número de tentativas para a pessoa tentar acertar e imprimir a resposta no final.</li>
+            <li>Quando a pessoa errar, deixar na mensagem se o número chutado é maior ou menor que o número secreto.</li>
+            <li>Pesquisar e aprender a diferença entre == e ===</li>
+          </ul>
+        </p>
+    </details>
+  </ul>
 </ul>
 
 <hr>
