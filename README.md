@@ -52,7 +52,6 @@
     </details>
   </ul>
 
-
   <li>☑️ DIA 2:</li> 
   <ul>
     <li>CONVERSOR DE MOEDAS</li>
@@ -95,6 +94,33 @@
             <li>Adicionar um número de tentativas para a pessoa tentar acertar e imprimir a resposta no final.</li>
             <li>Quando a pessoa errar, deixar na mensagem se o número chutado é maior ou menor que o número secreto.</li>
             <li>Pesquisar e aprender a diferença entre == e ===</li>
+          </ul>
+        </p>
+    </details>
+  </ul>
+
+  <li>☑️ DIA 4:</li> 
+  <ul>
+    <li>ARRAY, LISTA E ALURAFLIX</li>
+    <details>
+      <summary>Conteúdo detalhado desta aula</summary>
+        <p>
+          <ul>
+          <li>Criar uma primeira array de filmes usando a sintaxe [];</li>
+          <li>Utilizar o método filmes.push("Nome Do Filme") para inserir um novo elemento na lista (ou seja, um novo filme na array);</li>
+          <li>Descobrir a quantidade de elementos em uma array com o método array.length;</li>
+          <li>Selecionar elementos de uma array utilizando a sintaxe array[número], lembrando sempre que o primeiro índice começa com zero, ou seja, array[0] para o primeiro elemento;</li>
+          <li>Utilizar a instrução for para iterar, ou seja, percorrer todos os elementos de uma array;</li>
+          <li>Criar uma array com imagens de pôsters de alguns filmes que gostamos;</li>
+          <li>Montar a lógica do programa que vai iterar esta array de filmes e exibir cada um deles na tela, integrando o for do JavaScript com document.write().</li>
+          <br>
+          <strong>Desafios desta aula!</strong>
+          <br>
+          <br>
+          <li>Escolher o seu tema preferido para adaptar ao nosso código, ou seja, ao invés de filmes pode ser uma lista de animes, HQ's, cursos, capas de jogos...</li>
+          <li>Tentar implementar outras versões da estrutura de repetição que fizemos com for, como por exemplo com foreach ou while</li>
+          <li>Criar uma condição para não adicionar filmes repetidos, caso eles já tenham sido adicionados anteriormente</li>
+          <li>Criar um campo e botão para adicionar a imagem pela tela, e não direto no código</li>
           </ul>
         </p>
     </details>
