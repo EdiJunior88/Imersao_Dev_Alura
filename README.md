@@ -125,6 +125,32 @@
         </p>
     </details>
   </ul>
+
+  <li>☑️ DIA 5:</li> 
+  <ul>
+    <li>FUNÇÕES NO ALURAFLIX</li>
+    <details>
+      <summary>Conteúdo detalhado desta aula</summary>
+        <p>
+          <ul>
+          <li>Sintaxe e criação de funções no JavaScript;</li>
+          <li>Integrando funções criadas no JavaScript com o HTML que está sendo exibido na tela;</li>
+          <li>Condicionando a execução (ou "chamada") de uma função a um clique em um botão na tela;</li>
+          <li>Usando o JavaScript para acessar o que está sendo exibido na tela e pegar valores digitados pelo usuário com getElementById() e .value;</li>
+          <li>Passar informações que as funções precisam para funcionar, através dos parâmetros;</li>
+          <li>Utilizar o .endsWith() para verificar se um texto termina com determinados caracteres;</li>
+          <li>Ver mais um exemplo de reatribuição de variável para "limpar" o texto do campo com "".</li>
+          <br>
+          <strong>Desafios desta aula!</strong>
+          <br>
+          <br>
+          <li>Criar um botão para remover um filme na tela</li>
+          <li>Além de colocar a imagem do filme, também adicionar o nome por meio de outro input</li>
+          <li>Guardar todos os filmes adicionados em uma lista/array e percorrer essa lista toda vez que quiser imprimir ou remover o filme</li>
+          <li>Conversor de moedas: criar funções para cada tipo de conversão e chamá-las dependendo do que você quiser fazer, podendo colocar inputs ou botões e quando clicar chamar cada função converteDolar(), converteReal(), converteEuro() e converteBitcoin(), por exemplo</li>
+        </p>
+    </details>
+  </ul>
 </ul>
 
 <hr>
