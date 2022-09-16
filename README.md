@@ -26,6 +26,10 @@
 
 <hr>
 
+<strong>Páginado Projeto:</strong><a href="https://edijunior88.github.io/Imersao_Dev_Alura/" target="_blank">https://edijunior88.github.io/Imersao_Dev_Alura/</a>
+
+<hr>
+
 <ul>
   <li>☑️ DIA 1:</li> 
   <ul>
