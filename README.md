@@ -183,7 +183,7 @@
 
   <li>☑️ DIA 7:</li> 
   <ul>
-    <li>OBJETOS E TABELAS DE CLASSIFICAÇÃO</li>
+    <li>SUPERTRUNFO - LÓGICA DO JOGO</li>
     <details>
       <summary>Conteúdo detalhado desta aula</summary>
         <p>
@@ -200,6 +200,31 @@
             <li>Verificar o que acontece caso você não selecione nenhum dos atributos e como solucionar</li>
             <li>Utilizar personagens que você gosta para criar as cartas e compartilhe com o pessoal lá na comunidade do Discord!</li>
             <li>Adicionar a imagem do personagem assim que você selecionar a carta dele</li>
+        </p>
+    </details>
+  </ul>
+
+  <li>☑️ DIA 8:</li> 
+  <ul>
+    <li>SUPERTRUNFO - CARTAS DO JOGO</li>
+    <details>
+      <summary>Conteúdo detalhado desta aula</summary>
+        <p>
+          <ul>
+            <li>Adicionando o campo imagem nos objetos com o caminho da imagem;</li>
+            <li>Criar uma função que exibe a carta do jogador após o sorteio das cartas;</li>
+            <li>Adicionar a moldura da carta;</li>
+            <li>Escrever o resultado na tela após o duelo das cartas informando se o jogador venceu ou perdeu;</li>
+            <li>Criar uma função que exibe a carta da máquina;</li>
+            <li>Exibir os atributos e pontos da carta da máquina.</li>
+            <br>
+            <strong>Desafios desta aula!</strong>
+            <br>
+            <br>
+            <li>Criar de fato um baralho, com várias outras cartas</li>
+            <li>Desenvolver um sistema em que a cada carta que um jogador ganhe, ele fique com a carta do oponente e vice versa</li>
+            <li>Transformar as funções exibirCartaMaquina() e exibirCartaJogador() em apenas uma, chamada exibirCarta(), utilizando para isso a passagem de parâmetros</li>
+            <li>Utilizar seus personagens e jogos preferidos nesse projeto</li>
         </p>
     </details>
   </ul>
