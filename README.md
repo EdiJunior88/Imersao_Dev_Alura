@@ -180,6 +180,29 @@
         </p>
     </details>
   </ul>
+
+  <li>☑️ DIA 7:</li> 
+  <ul>
+    <li>OBJETOS E TABELAS DE CLASSIFICAÇÃO</li>
+    <details>
+      <summary>Conteúdo detalhado desta aula</summary>
+        <p>
+          <ul>
+            <li>Criar as cartas do jogo e definir seus atributos;</li>
+            <li>Desenvolver uma função para sortear uma carta para o jogador e outra para a máquina;</li>
+            <li>Exibindo os atributos das cartas na tela para o jogador;</li>
+            <li>Obter o atributo escolhido pelo jogador e comparar com a carta da máquina;</li>
+            <li>Comparar o atributo de ambas as cartas e definir um vencedor.</li>
+            <br>
+            <strong>Desafios desta aula!</strong>
+            <br>
+            <br>
+            <li>Verificar o que acontece caso você não selecione nenhum dos atributos e como solucionar</li>
+            <li>Utilizar personagens que você gosta para criar as cartas e compartilhe com o pessoal lá na comunidade do Discord!</li>
+            <li>Adicionar a imagem do personagem assim que você selecionar a carta dele</li>
+        </p>
+    </details>
+  </ul>
 </ul>
 
 <hr>
