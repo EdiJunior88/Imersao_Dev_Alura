@@ -148,6 +148,35 @@
           <li>Além de colocar a imagem do filme, também adicionar o nome por meio de outro input</li>
           <li>Guardar todos os filmes adicionados em uma lista/array e percorrer essa lista toda vez que quiser imprimir ou remover o filme</li>
           <li>Conversor de moedas: criar funções para cada tipo de conversão e chamá-las dependendo do que você quiser fazer, podendo colocar inputs ou botões e quando clicar chamar cada função converteDolar(), converteReal(), converteEuro() e converteBitcoin(), por exemplo</li>
+          </ul>
+        </p>
+    </details>
+  </ul>
+
+  <li>☑️ DIA 6:</li> 
+  <ul>
+    <li>OBJETOS E TABELAS DE CLASSIFICAÇÃO</li>
+    <details>
+      <summary>Conteúdo detalhado desta aula</summary>
+        <p>
+          <ul>
+            <li>Remover o código estático do HTML;</li>
+            <li>Criar um objeto no Javascript para cada jogador;</li>
+            <li>Criar uma função que receba um objeto como parâmetro para calcular os pontos;</li>
+            <li>Exibir o objeto na página HTML;</li>
+            <li>Criar uma função para adicionar vitória, outra para adicionar empate e uma última para adicionar derrota;</li>
+            <li>Recalcular os pontos quando vitória ou empate for adicionado.</li>
+            <br>
+            <strong>Desafios desta aula!</strong>
+            <br>
+            <br>
+            <li>Fazer a lógica de quando houver um empate, obrigatoriamente deveria já ajustar como empate para os demais jogadores</li>
+            <li>Validar se todos os pontos estão fazendo sentido, tanto o número de empates, quanto derrotas e vitórias com os demais jogadores (impossível haver mais vitórias que derrotas, por exemplo)</li>
+            <li>Adicionar a imagem de cada jogador</li>
+            <li>Criar um botão para zerar todos os pontos</li>
+            <li>Criar um botão e inputs (campos de texto) para adicionar novos jogadores, com seus respectivos dados</li>
+            <li>Utilizar seu jogo preferido para se basear na pontuação da sua tabela de classificação</li>
+          </ul>
         </p>
     </details>
   </ul>
