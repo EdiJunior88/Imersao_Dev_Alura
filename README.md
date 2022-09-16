@@ -273,4 +273,4 @@
 
 <hr>
 
-<h4><b>Status da Imersão:</b> ⏳ Em andamento</h4>
+<h4><b>Status da Imersão:</b> ✔️ Concluído</h4>
