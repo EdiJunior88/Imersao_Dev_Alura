@@ -35,6 +35,10 @@ h2 {
   color: #fff;
 }
 
+#resultado {
+  color: rgb(243, 241, 142);
+}
+
 #carta-jogador {
   width: 360px;
   height: 500px;
