@@ -228,6 +228,43 @@
         </p>
     </details>
   </ul>
+
+  <li>☑️ DIA 9:</li> 
+  <ul>
+    <li>FIGMA, HTML E CSS</li>
+    <details>
+      <summary>Conteúdo detalhado desta aula</summary>
+        <p>
+          <ul>
+            <li>Aprendemos a mexer no Figma e transformar o design em código</li>
+            <li>Entendemos melhor como funciona HTML e CSS</li>
+            <li>Estruturamos o nosso portfólio com HTML, aprendendo todas as tags necessárias pra isso</li>
+            <li>Estilizamos o nosso portfólio com CSS, conhecendo os seletores, propriedades e valores necessários para isso</li>
+            <li><br></li>
+            <strong>Desafios desta aula!</strong>
+            <br>
+            <br>
+            <li>Terminar todo o design que está no figma (disponível aqui: <a href="https://www.figma.com/file/1flmz2iauuNs8JsY6eaBHI/Imers%C3%A3o-Dev-Aula-9?node-id=0%3A1">https://www.figma.com/file/1flmz2iauuNs8JsY6eaBHI/Imers%C3%A3o-Dev-Aula-9?node-id=0%3A1</a>)</li>
+            <li>Adicionar suas redes sociais de forma que quem clique consiga abrí-las</li>
+        </p>
+    </details>
+  </ul>
+
+  <li>☑️ DIA 10:</li> 
+  <ul>
+    <li>PORTFÓLIO</li>
+    <details>
+      <summary>Conteúdo detalhado desta aula</summary>
+        <p>
+          <ul>
+            <li>Utilizaremos o Figma para transformar o design em código</li>
+            <li>Estruturamos o nosso portfólio com HTML, aprendendo todas as tags necessárias pra isso</li>
+            <li>Estilizamos o nosso portfólio com CSS, conhecendo os seletores, propriedades e valores necessários para isso</li>
+            <li>Criamos o tema claro e escuro para o nosso portfólio</li>
+            <li>Fazemos a lógica em Javascript para alterar entre os temas</li>
+        </p>
+    </details>
+  </ul>
 </ul>
 
 <hr>
