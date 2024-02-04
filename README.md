@@ -281,4 +281,4 @@ Para ver todas as tecnologias [clique aqui](/techstack.md)
 
 <hr>
 
-<h4><b>Status da Imersão:</b> ✔️ Concluído</h4>
+<h4><b>Status do Curso:</b> ✅ Concluído</h4>
